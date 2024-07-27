@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Bienvenido a Nuestra Página de Inicio",
+    "subtitle": "Ofrecemos excelentes servicios",
+    "background_image": "images/hero.jpg"
+  },
+  "sections": [
+    {
+      "image": {
+        "src": "images/section-image.jpg",
+        "alt": "Section Image"
+      },
+      "content": {
+        "text": "Lorem Ipsum de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum..",
+        "link": {
+          "href": "https://example.com",
+          "text": "Leer más"
+        }
+      }
+    }
+  ],
+  "second_sections": [
+    {
+      "image": {
+        "src": "images/hero3.jpg",
+        "alt": "Section Image"
+      },
+      "content": {
+        "text": "Lorem Ipsum de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum..",
+        "link": {
+          "href": "https://example.com",
+          "text": "Leer más"
+        }
+      }
+    }
+  ],
+  "posts": [
+    {
+      "title": "Post 1",
+      "content": "contenido para el primer Post"
+    },
+    {
+      "title": "Post 2",
+      "content": "contenido para el segundo Post"
+    },
+    {
+      "title": "Post 3",
+      "content": "contenido para el tercer Post"
+    },
+    {
+      "title": "Post 4",
+      "content": "contenido para el cuarto Post"
+    },
+    {
+      "title": "Post 5",
+      "content": "contenido para el quinto Post"
+    },
+    {
+      "title": "Post 6",
+      "content": "contenido para el sexto Post"
+    },
+    {
+      "title": "Post 7",
+      "content": "contenido para el septimo Post"
+    },
+    {
+      "title": "Post 8",
+      "content": "contenido para el octavo Post"
+    }
+  ]
+}
